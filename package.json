@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/meshimeshi/web-socket/issues"
   },
-  "homepage": "https://github.com/meshimeshi/web-socket#readme"
+  "homepage": "https://github.com/meshimeshi/web-socket#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
 }
